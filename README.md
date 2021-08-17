@@ -95,6 +95,18 @@ RxSwift의 근본적인 학습 자체보다는, 빠르게 사용법을 익혀 �
 <br/>
 <hr/>
 
+## 구현
+
+### 1. 비동기로 응답 받기
+<p align="center">
+<img width="335" alt="image" src="https://user-images.githubusercontent.com/53998480/129745407-a0e79bef-98e3-4b12-b05e-9199de00819a.png"> 
+</p>
+
+### 2. RxSwift + MVVM 주문 앱
+<p align="center">
+<img width="330" alt="image" src="https://user-images.githubusercontent.com/53998480/129745665-d1a28511-1801-4ba7-8c46-e213556fd067.png"><img width="332" alt="image" src="https://user-images.githubusercontent.com/53998480/129745854-8f73f7e6-975c-43c2-aed6-c47fe763f6a4.png">
+</p>
+
 ## References
 
 - [시즌1 자료 보기](README_s1.md)
